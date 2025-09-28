@@ -17,6 +17,8 @@ Each kill has a configurable chance to drop a reward, and the reward is selected
   - 🏃 Increased Speed
   - 🌀 Bunnyhop
   - ⭐ Temporary VIP *(from 5 minutes up to 24 hours – random duration)*
+  - 🎟 Credits for store/shop system
+  - 📈 Level / XP for rankup system
 
 ---
 
