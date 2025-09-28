@@ -1,5 +1,9 @@
 {
   "DropChancePercent": 30,
+  "DBHost": "localhost",
+  "DBName": "cs2db",
+  "DBUser": "root",
+  "DBPass": "",
   "Rewards": [
     { "Type": "Cash", "Amount": 1000 },
     { "Type": "HP", "Amount": 50 },
