@@ -44,7 +44,19 @@ Example `config.json`:
  { "Type": "Grenade", "List": ["weapon_hegrenade", "weapon_flashbang", "weapon_smokegrenade", "weapon_molotov"] },
  { "Type": "Speed", "Multiplier": 1.2, "Duration": 30 },
  { "Type": "Bhop", "Duration": 60 },
- { "Type": "VIP", "MinMinutes": 5, "MaxMinutes": 1440 }
+ { "Type": "VIP", "MinMinutes": 5, "MaxMinutes": 1440 },
+ { "Type": "Credits", "Amount": 50 },
+ { "Type": "XP", "Amount": 100 }
 ]
 }
+DropChancePercent → % chance of a drop after each kill.
+
+Rewards → List of rewards, one is picked randomly.
+
+VIP → Random time between MinMinutes and MaxMinutes (5 min – 24 h).
+
+Credits → Gives credits to shop/store plugin (if installed).
+
+XP → Adds XP for rank/level system.
+
 [Drop System] You received: VIP for 2 hours!
