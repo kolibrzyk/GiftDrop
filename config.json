@@ -1,0 +1,14 @@
+{
+  "DropChancePercent": 30,
+  "Rewards": [
+    { "Type": "Cash", "Amount": 1000 },
+    { "Type": "HP", "Amount": 50 },
+    { "Type": "Armor", "Kevlar": true, "Helmet": true },
+    { "Type": "Grenade", "List": ["weapon_hegrenade", "weapon_flashbang", "weapon_smokegrenade", "weapon_molotov"] },
+    { "Type": "Speed", "Multiplier": 1.2, "Duration": 30 },
+    { "Type": "Bhop", "Duration": 60 },
+    { "Type": "VIP", "MinMinutes": 5, "MaxMinutes": 1440 },
+    { "Type": "Credits", "Amount": 50 },
+    { "Type": "XP", "Amount": 100 }
+  ]
+}
